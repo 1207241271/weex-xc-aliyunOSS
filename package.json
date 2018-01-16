@@ -1,26 +1,24 @@
 {
-  "version": "0.2.3",
+  "version": "0.0.1",
   "platform": [
-    "ios",
-    "android"
+    "ios"
   ],
-  "description": "weex mapview component",
+  "description": "weex aliyun oss",
   "keywords": [
     "weex",
-    "map"
+    "aliyun oss"
   ],
-  "main": "js/weex-amap.we",
-  "name": "weex-xc-amap",
+  "name": "weex-aliyun-oss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1207241271/weex-xc-amap.git"
+    "url": "git+https://github.com/1207241271/weex-xc-aliyunOS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1207241271/weex-xc-amap/issues"
+    "url": "https://github.com/1207241271/weex-xc-aliyunOS"
   },
-  "homepage": "https://github.com/1207241271/weex-xc-amap#readme",
+  "homepage": "https://github.com/1207241271/weex-xc-aliyunOS#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
