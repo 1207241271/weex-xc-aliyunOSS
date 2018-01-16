@@ -1,0 +1,27 @@
+{
+  "version": "0.2.3",
+  "platform": [
+    "ios",
+    "android"
+  ],
+  "description": "weex mapview component",
+  "keywords": [
+    "weex",
+    "map"
+  ],
+  "main": "js/weex-amap.we",
+  "name": "weex-xc-amap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1207241271/weex-xc-amap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1207241271/weex-xc-amap/issues"
+  },
+  "homepage": "https://github.com/1207241271/weex-xc-amap#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
